@@ -1,0 +1,16 @@
+PODS:
+  - PatchApiSDK (1.0)
+
+DEPENDENCIES:
+  - PatchApiSDK
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - PatchApiSDK
+
+SPEC CHECKSUMS:
+  PatchApiSDK: 118def2010177bfdc8fce997cf741932899840d5
+
+PODFILE CHECKSUM: bbab3fbdd0482a56d2550ddb596f71cd44fdfeb6
+
+COCOAPODS: 1.5.3
